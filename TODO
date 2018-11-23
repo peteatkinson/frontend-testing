@@ -1,0 +1,9 @@
+
+HolidaySearchAPI:
+  ☐ V2 Caching should be applied after the results from Solr to reduce the probability of Holiday Search duplicates
+
+SearchResultsPage: 
+  ☐ PageTrackingIds should be removed from the Holiday class and the Header.cshtml 
+  
+
+
